@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+M:\Simplilearn\mphasis\Phase-3\Day-6\Assign5\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
